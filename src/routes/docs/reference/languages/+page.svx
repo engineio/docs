@@ -24,7 +24,7 @@ Games receive the language code via the `lang` URL query parameter when loaded. 
 | Indonesian | `id` |
 | Japanese | `ja` |
 | Korean | `ko` |
-| Polish | `po` |
+| Polish | `pl` |
 | Portuguese | `pt` |
 | Russian | `ru` |
 | Spanish | `es` |
